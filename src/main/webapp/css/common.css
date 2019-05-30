@@ -1,0 +1,84 @@
+body, html {
+    font-family: Tahoma,Arial,"Hiragino Sans GB",simsun,sans-serif;
+    font-size: 12px;
+    height: 100%;
+    line-height: 1.6;
+}
+button,input{
+    font-family: Tahoma,Arial,"Hiragino Sans GB",simsun,sans-serif;
+    font-size: 12px;
+    line-height: 1;
+}
+
+a{
+    background-color: transparent;
+    color: #999;
+    text-decoration:none;
+}
+
+span {
+    background-color: transparent;
+    color: #999;
+}
+
+nav.top {
+    background-color: #f2f2f2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #e7e7e7;
+    font-size: 12px;
+    color: #999;
+}
+
+nav.top a{
+    margin: 0px 10px 0px 10px;
+}
+nav.top span{
+    margin: 0px 10px 0px 10px;
+}
+
+div.top_middle{
+    max-width:1024px;
+    margin:0px auto;
+}
+
+div.searchOutDiv{
+    max-width:1024px;
+    margin:0px auto;
+    position:relative;
+}
+
+div.searchDiv {
+    background-color: #C40000;
+    width: 400px;
+    margin: 50px auto;
+    padding: 1px;
+    height: 40px;
+    display: block;
+}
+
+div.searchDiv input {
+    width: 275px;
+    border: 1px solid transparent;
+    height: 36px;
+    margin: 1px;
+    outline:none;
+}
+
+div.searchDiv button {
+    width: 110px;
+    border: 1px solid transparent;
+    background-color: #C40000;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+img.logo {
+    position: absolute;
+    left: -40px;
+    top: -50px;
+    /* 	z-index:-1; */
+}
+

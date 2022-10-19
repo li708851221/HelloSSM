@@ -48,7 +48,7 @@
     <!-- mybatis版本号 -->
     <mybatis.version>3.4.6</mybatis.version>
     <!-- jackson版本号 -->
-    <jackson.version>2.9.9</jackson.version>
+    <jackson.version>2.13.4.1</jackson.version>
     <!-- log4j版本号 -->
     <log4j.version>2.11.1</log4j.version>
     <!-- slf4j版本号 -->
